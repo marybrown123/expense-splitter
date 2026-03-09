@@ -11,8 +11,10 @@ The frontend is intentionally lightweight and serves mainly as a client for inte
 - [Screenshots](#screenshots)
 - [Tech stack](#tech-stack)
 - [Main features](#main-features)
+- [Architecture](#architecture)
 - [Running locally](#running-locally)
 - [What I practiced in this project](#what-i-practiced-in-this-project)
+- [Project history](#project-history)
 
 ## Screenshots
 
