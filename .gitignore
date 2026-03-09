@@ -1,0 +1,34 @@
+# Environment variables
+.env
+.env.local
+.env.*
+
+# Logs
+logs/
+*.log
+
+# Frontend (React / Vite)
+node_modules/
+dist/
+dist-ssr/
+coverage/
+
+# Backend (.NET)
+bin/
+obj/
+TestResults/
+
+# IDE / Editors
+.vs/
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*~
