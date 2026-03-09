@@ -184,3 +184,13 @@ http://localhost:5173
 - building reusable UI components  
 - implementing expense splitting and balance calculation algorithms  
 - generating settlement suggestions to minimize transfers between users
+
+
+## Project history
+
+Originally the frontend and backend were developed as separate repositories:
+
+- Backend: https://github.com/marybrown123/expense-splitter-backend
+- Frontend: https://github.com/marybrown123/expense-splitter-frontend
+
+Later they were merged into a monorepo to simplify development and deployment.
